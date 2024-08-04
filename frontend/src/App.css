@@ -1,0 +1,29 @@
+* {
+    scrollbar-width: thin;
+    scrollbar-color: #b8c1cc #2d3748;
+    /* thumb ve track */
+}
+
+*::-webkit-scrollbar {
+    width: 12px;
+
+}
+
+*::-webkit-scrollbar-track {
+    background: #2d3748;
+
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #b8c1cc;
+
+    border-radius: 6px;
+    border: 3px solid #2d3748;
+
+}
+
+/* Ekstra efektler */
+*::-webkit-scrollbar-thumb:hover {
+    background-color: #a0aec0;
+
+}
