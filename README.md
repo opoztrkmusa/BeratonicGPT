@@ -14,7 +14,6 @@
 <ul>
     <li><strong>!soru {soru içeriği}</strong><br>Kullanıcının sorduğu soruya kısa ve net bir yanıt verir.</li>
     <li><strong>!duygu {metin}</strong><br>Girilen metnin duygusal tonunu analiz eder.</li>
-    <li><strong>!component-{framework ismi}-{tailwindcss}</strong><br>Belirtilen framework ve TailwindCSS kullanarak bir bileşen oluşturur.</li>
     <li><strong>!hesapla {matematiksel ifade}</strong><br>Girilen matematiksel ifadeyi hesaplar.</li>
     <li><strong>!wiki {arama terimi}</strong><br>Belirtilen terim hakkında Wikipedia'dan bilgi getirir.</li>
     <li><strong>!film {film ismi}</strong><br>Belirtilen film hakkında bilgi verir ve önerilerde bulunur.</li>
